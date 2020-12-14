@@ -1,0 +1,33 @@
+a{
+    text-decoration:none;
+    }
+    
+    #header {
+    justify-content:flex-end;
+    display:flex;
+    align-items:baseline;
+    flex:100%;
+    }
+    .header-link {
+    display:flex;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 2.28571px;
+    text-transform: uppercase;
+    margin:0px 20px;
+    color: #474747;
+    }
+    
+    .header-login-button {
+    display:flex;
+    background: #52519F;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    padding:10px 20px 7px 20px;
+    box-shadow: -11px -11px 19px rgba(255, 255, 255, 0.295974), 11px 11px 18px rgba(0, 0, 0, 0.0520105);
+    border-radius: 30px;
+    color: #FFFFFF;
+    }
